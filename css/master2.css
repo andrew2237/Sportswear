@@ -40,6 +40,10 @@ a{
     width: 150px;
     margin-top: 6px;
 }
+.fas.fa-shopping-bag.fa-lg{
+    cursor: pointer;
+    color: #ff523b;
+}
 .navbar{
     display: flex;
     align-items: center;
